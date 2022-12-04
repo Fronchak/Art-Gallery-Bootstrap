@@ -123,3 +123,32 @@ a, i {
     height: 250px;
     margin-bottom: 20px;
 }
+
+/* footer */
+
+footer {
+    border-top: 1px solid #ccc;
+    padding: 40px 30px 50px;
+}
+
+footer i {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#social-icons-container {
+    padding: 25px;
+}
+
+#social-icons-container div {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+    margin: 20px;
+}
+
+a:hover i {
+    color: #C1B696;
+}
